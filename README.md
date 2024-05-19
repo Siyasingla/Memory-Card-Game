@@ -23,9 +23,17 @@ To get the membership of our website we designed a simple login page
 
 
 TO START ENJOYING GAME PRESS HIGHLETED BUTTON BELOW
-![alt text](<Screenshot 2024-05-16 172018.png>) 
+![alt text](<Screenshot 2024-05-16 172018.png>)
 
+THE MAIN PAGE OF MEMORY CARD GAME
+![alt text](image-1.png)
 
+<<<<<<< HEAD
+VIDEO PAGE OF WEBSITE INCLUDES A YOUTUBE VIDEO LINK ADDED USING VIDEO TAG
+
+THE END
+=======
 
 VIDEO PAGE OF WEBSITE INCLUDES A YOUTUBE VIDEO LINK ADDED USING VIDEO TAG
 
+>>>>>>> b1bc164830e1c5cbc50537262da1fe31e88e9a3e
