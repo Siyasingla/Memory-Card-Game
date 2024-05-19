@@ -20,12 +20,13 @@ THE LOGIN PAGE
 To get the membership of our website we designed a simple login page
 ![alt text](<Screenshot 2024-05-15 151647.png>)
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 
 TO START ENJOYING GAME PRESS HIGHLETED BUTTON BELOW
 ![alt text](<Screenshot 2024-05-16 172018.png>)
 
+THE MAIN PAGE OF MEMORY CARD GAME
+![alt text](image-1.png)
 
 VIDEO PAGE OF WEBSITE INCLUDES A YOUTUBE VIDEO LINK ADDED USING VIDEO TAG
 
